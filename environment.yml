@@ -5,6 +5,4 @@ dependencies:
   - python=3.10
   - jupyterlab
   - pandas
-  - ca-certificates
-  - openssl
 prefix: C:\Users\alexa\mambaforge\envs\AnalystForecast
