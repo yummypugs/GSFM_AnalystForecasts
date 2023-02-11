@@ -8,4 +8,6 @@ dependencies:
   - jupyterlab
   - ca-certificates
   - openssl
+  - pip:
+      eikon
 prefix: C:\Users\alexa\mambaforge\envs\AnalystForecast

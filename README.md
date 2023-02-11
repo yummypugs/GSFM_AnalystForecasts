@@ -7,5 +7,7 @@ Update the environment.yml file: mamba env export --from-history>environment.yml
 update your own environment with the missing packages: mamba env update --file environment.yml --prune
 
 
-pip install eikon==0.1.12
-pip install httpx
+
+not anymore:
+#pip install eikon==0.1.12
+#pip install httpx==0.14.2
