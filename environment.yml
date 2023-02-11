@@ -9,4 +9,7 @@ dependencies:
   - openssl
   - yfinance
   - certifi
+  - alpha_vantage
+  - matplotlib=3.5
+  - eikon
 prefix: C:\Users\alexa\mambaforge\envs\AnalystForecast
