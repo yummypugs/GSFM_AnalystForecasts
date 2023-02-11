@@ -2,14 +2,10 @@ name: AnalystForecast
 channels:
   - conda-forge
 dependencies:
-  - python=3.10
-  - jupyterlab
+  - python=3.11
   - pandas
+  - numpy
+  - jupyterlab
   - ca-certificates
   - openssl
-  - yfinance
-  - certifi
-  - alpha_vantage
-  - matplotlib=3.5
-  - eikon
 prefix: C:\Users\alexa\mambaforge\envs\AnalystForecast
