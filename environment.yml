@@ -8,6 +8,8 @@ dependencies:
   - jupyterlab
   - ca-certificates
   - openssl
-  - pip:
-      eikon
+  - matplotlib
+  - certifi
+  - statsmodels
+  - plotly
 prefix: C:\Users\alexa\mambaforge\envs\AnalystForecast
