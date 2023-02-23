@@ -1,5 +1,6 @@
 # GSFM_AnalystForecasts
 
+Alexander, Elena, Ginevra, Mohandas
 
 create new environment without file: mamba create -n "name (without "")" python=3.11
 create environment file from .yml: mamba env create -f environment.yml
