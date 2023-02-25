@@ -7,6 +7,7 @@ create environment file from .yml: mamba env create -f environment.yml
 Update the environment.yml file: mamba env export --from-history>environment.yml
 update your own environment with the missing packages: mamba env update --file environment.yml --prune
 
+https://developers.refinitiv.com/en/article-catalog/article/eikon-data-api-cheat-sheet
 
 
 not anymore:
