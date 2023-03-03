@@ -12,4 +12,8 @@ dependencies:
   - certifi
   - statsmodels
   - plotly
+  - scikit-learn
+  - linearmodels
+  - seaborn
+  - xgboost
 prefix: C:\Users\alexa\mambaforge\envs\AnalystForecast
