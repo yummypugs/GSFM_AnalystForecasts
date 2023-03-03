@@ -735,7 +735,6 @@ XYL.N,2022-01-01,Capital Goods,2.522,2.522
 XYL.N,2022-04-01,Capital Goods,14.269,14.269
 XYL.N,2022-07-01,Capital Goods,22.342,22.342
 XYL.N,2022-10-01,Capital Goods,20.438,20.438
-ACN.N,2012-10-01,Software & Services,1.459,1.459
 ACN.N,2013-01-01,Software & Services,2.987,2.987
 ACN.N,2013-04-01,Software & Services,0.561,0.561
 ACN.N,2013-07-01,Software & Services,0.391,0.391
@@ -1881,7 +1880,6 @@ SBUX.OQ,2022-01-01,Consumer Services,-9.615,9.615
 SBUX.OQ,2022-04-01,Consumer Services,-0.546,0.546
 SBUX.OQ,2022-07-01,Consumer Services,11.576,11.576
 SBUX.OQ,2022-10-01,Consumer Services,12.195,12.195
-CRM.N,2012-10-01,Software & Services,3.177,3.177
 CRM.N,2013-01-01,Software & Services,28.399,28.399
 CRM.N,2013-04-01,Software & Services,-3.446,3.446
 CRM.N,2013-07-01,Software & Services,31.1,31.1
@@ -2000,7 +1998,6 @@ OMC.N,2022-01-01,Media & Entertainment,12.645,12.645
 OMC.N,2022-04-01,Media & Entertainment,6.246,6.246
 OMC.N,2022-07-01,Media & Entertainment,6.955,6.955
 OMC.N,2022-10-01,Media & Entertainment,5.263,5.263
-WBA.OQ,2012-10-01,Food & Staples Retailing,-17.291,17.291
 WBA.OQ,2013-01-01,Food & Staples Retailing,1.767,1.767
 WBA.OQ,2013-04-01,Food & Staples Retailing,-6.176,6.176
 WBA.OQ,2013-10-01,Food & Staples Retailing,0.884,0.884
@@ -2120,7 +2117,6 @@ INTC.OQ,2022-01-01,Semiconductors & Semiconductor Equipment,20.364,20.364
 INTC.OQ,2022-04-01,Semiconductors & Semiconductor Equipment,8.013,8.013
 INTC.OQ,2022-07-01,Semiconductors & Semiconductor Equipment,-58.305,58.305
 INTC.OQ,2022-10-01,Semiconductors & Semiconductor Equipment,81.689,81.689
-HRL.N,2012-10-01,"Food, Beverage & Tobacco",-1.343,1.343
 HRL.N,2013-01-01,"Food, Beverage & Tobacco",-0.312,0.312
 HRL.N,2013-04-01,"Food, Beverage & Tobacco",0.358,0.358
 HRL.N,2013-07-01,"Food, Beverage & Tobacco",-6.198,6.198
@@ -2475,7 +2471,6 @@ BKNG.OQ,2022-01-01,Consumer Services,16.052,16.052
 BKNG.OQ,2022-04-01,Consumer Services,334.783,334.783
 BKNG.OQ,2022-07-01,Consumer Services,9.13,9.13
 BKNG.OQ,2022-10-01,Consumer Services,6.236,6.236
-KR.N,2012-10-01,Food & Staples Retailing,7.693,7.693
 KR.N,2013-01-01,Food & Staples Retailing,0.074,0.074
 KR.N,2013-04-01,Food & Staples Retailing,4.197,4.197
 KR.N,2013-07-01,Food & Staples Retailing,0.681,0.681
@@ -3057,7 +3052,6 @@ ADSK.OQ,2022-01-01,Software & Services,4.304,4.304
 ADSK.OQ,2022-04-01,Software & Services,6.611,6.611
 ADSK.OQ,2022-07-01,Software & Services,4.85,4.85
 ADSK.OQ,2022-10-01,Software & Services,-0.071,0.071
-ADBE.OQ,2012-10-01,Software & Services,7.925,7.925
 ADBE.OQ,2013-01-01,Software & Services,11.643,11.643
 ADBE.OQ,2013-04-01,Software & Services,7.245,7.245
 ADBE.OQ,2013-07-01,Software & Services,-5.337,5.337
@@ -3889,7 +3883,6 @@ PTC.OQ,2022-01-01,Software & Services,-9.374,9.374
 PTC.OQ,2022-04-01,Software & Services,22.183,22.183
 PTC.OQ,2022-07-01,Software & Services,-8.104,8.104
 PTC.OQ,2022-10-01,Software & Services,10.215,10.215
-CPB.N,2012-10-01,"Food, Beverage & Tobacco",3.192,3.192
 CPB.N,2013-01-01,"Food, Beverage & Tobacco",6.344,6.344
 CPB.N,2013-04-01,"Food, Beverage & Tobacco",10.173,10.173
 CPB.N,2013-07-01,"Food, Beverage & Tobacco",7.586,7.586
@@ -4605,7 +4598,6 @@ VMC.N,2022-01-01,Materials,7.709,7.709
 VMC.N,2022-04-01,Materials,17.49,17.49
 VMC.N,2022-07-01,Materials,-3.025,3.025
 VMC.N,2022-10-01,Materials,4.565,4.565
-MNST.OQ,2012-10-01,"Food, Beverage & Tobacco",-14.351,14.351
 MNST.OQ,2013-01-01,"Food, Beverage & Tobacco",-5.74,5.74
 MNST.OQ,2013-04-01,"Food, Beverage & Tobacco",-9.385,9.385
 MNST.OQ,2013-07-01,"Food, Beverage & Tobacco",1.774,1.774
@@ -5147,7 +5139,6 @@ UHS.N,2022-01-01,Health Care Equipment & Services,2.812,2.812
 UHS.N,2022-04-01,Health Care Equipment & Services,-12.502,12.502
 UHS.N,2022-07-01,Health Care Equipment & Services,-6.373,6.373
 UHS.N,2022-10-01,Health Care Equipment & Services,4.518,4.518
-CAG.N,2012-10-01,"Food, Beverage & Tobacco",3.907,3.907
 CAG.N,2013-04-01,"Food, Beverage & Tobacco",-2.456,2.456
 CAG.N,2013-04-01,"Food, Beverage & Tobacco",1.237,1.237
 CAG.N,2013-07-01,"Food, Beverage & Tobacco",-5.465,5.465
@@ -5257,7 +5248,6 @@ AMT.N,2022-01-01,Real Estate,-13.562,13.562
 AMT.N,2022-04-01,Real Estate,39.419,39.419
 AMT.N,2022-07-01,Real Estate,103.407,103.407
 AMT.N,2022-10-01,Real Estate,59.387,59.387
-VRSK.OQ,2012-10-01,Commercial  & Professional Services,7.668,7.668
 VRSK.OQ,2013-01-01,Commercial  & Professional Services,17.037,17.037
 VRSK.OQ,2013-04-01,Commercial  & Professional Services,-0.015,0.015
 VRSK.OQ,2013-07-01,Commercial  & Professional Services,3.844,3.844
@@ -6291,7 +6281,6 @@ PARA.OQ,2022-01-01,Media & Entertainment,-38.979,38.979
 PARA.OQ,2022-04-01,Media & Entertainment,16.732,16.732
 PARA.OQ,2022-07-01,Media & Entertainment,5.64,5.64
 PARA.OQ,2022-10-01,Media & Entertainment,-10.252,10.252
-KMX.N,2012-10-01,Retailing,5.708,5.708
 KMX.N,2013-04-01,Retailing,0.584,0.584
 KMX.N,2013-04-01,Retailing,9.988,9.988
 KMX.N,2013-07-01,Retailing,9.182,9.182
@@ -6489,7 +6478,6 @@ UPS.N,2022-01-01,Transportation,15.733,15.733
 UPS.N,2022-04-01,Transportation,5.774,5.774
 UPS.N,2022-07-01,Transportation,4.206,4.206
 UPS.N,2022-10-01,Transportation,5.16,5.16
-MU.OQ,2012-10-01,Semiconductors & Semiconductor Equipment,-34.71,34.71
 MU.OQ,2013-01-01,Semiconductors & Semiconductor Equipment,-44.913,44.913
 MU.OQ,2013-04-01,Semiconductors & Semiconductor Equipment,72.34,72.34
 MU.OQ,2013-10-01,Semiconductors & Semiconductor Equipment,-19.185,19.185
@@ -6684,7 +6672,6 @@ CMCSA.OQ,2022-01-01,Media & Entertainment,4.926,4.926
 CMCSA.OQ,2022-04-01,Media & Entertainment,6.935,6.935
 CMCSA.OQ,2022-07-01,Media & Entertainment,10.332,10.332
 CMCSA.OQ,2022-10-01,Media & Entertainment,6.763,6.763
-GIS.N,2012-10-01,"Food, Beverage & Tobacco",9.168,9.168
 GIS.N,2013-01-01,"Food, Beverage & Tobacco",12.913,12.913
 GIS.N,2013-04-01,"Food, Beverage & Tobacco",-0.563,0.563
 GIS.N,2013-07-01,"Food, Beverage & Tobacco",-0.076,0.076
@@ -7140,7 +7127,6 @@ LHX.N,2022-01-01,Capital Goods,1.096,1.096
 LHX.N,2022-04-01,Capital Goods,2.366,2.366
 LHX.N,2022-07-01,Capital Goods,1.723,1.723
 LHX.N,2022-10-01,Capital Goods,-3.841,3.841
-BBY.N,2012-10-01,Retailing,-75.0,75.0
 BBY.N,2013-01-01,Retailing,6.274,6.274
 BBY.N,2013-04-01,Retailing,42.107,42.107
 BBY.N,2013-07-01,Retailing,173.996,173.996
@@ -7839,7 +7825,6 @@ MOH.N,2022-01-01,Health Care Equipment & Services,4.789,4.789
 MOH.N,2022-04-01,Health Care Equipment & Services,5.186,5.186
 MOH.N,2022-07-01,Health Care Equipment & Services,5.951,5.951
 MOH.N,2022-10-01,Health Care Equipment & Services,3.551,3.551
-A.N,2012-10-01,"Pharmaceuticals, Biotechnology & Life Sciences",7.55,7.55
 A.N,2013-01-01,"Pharmaceuticals, Biotechnology & Life Sciences",-5.622,5.622
 A.N,2013-04-01,"Pharmaceuticals, Biotechnology & Life Sciences",15.503,15.503
 A.N,2013-07-01,"Pharmaceuticals, Biotechnology & Life Sciences",9.511,9.511
@@ -8317,7 +8302,6 @@ AES.N,2022-01-01,Utilities,3.617,3.617
 AES.N,2022-04-01,Utilities,-23.797,23.797
 AES.N,2022-07-01,Utilities,8.349,8.349
 AES.N,2022-10-01,Utilities,18.279,18.279
-NKE.N,2012-10-01,Consumer Durables & Apparel,13.873,13.873
 NKE.N,2013-01-01,Consumer Durables & Apparel,9.037,9.037
 NKE.N,2013-04-01,Consumer Durables & Apparel,2.206,2.206
 NKE.N,2013-07-01,Consumer Durables & Apparel,10.327,10.327
@@ -8552,7 +8536,6 @@ XRAY.OQ,2022-01-01,Health Care Equipment & Services,-3.405,3.405
 XRAY.OQ,2022-04-01,Health Care Equipment & Services,-6.53,6.53
 XRAY.OQ,2022-10-01,Health Care Equipment & Services,22.419,22.419
 XRAY.OQ,2022-10-01,Health Care Equipment & Services,-28.196,28.196
-DG.N,2012-10-01,Retailing,5.219,5.219
 DG.N,2013-01-01,Retailing,7.539,7.539
 DG.N,2013-04-01,Retailing,-0.292,0.292
 DG.N,2013-07-01,Retailing,3.943,3.943
@@ -8965,7 +8948,6 @@ GPN.N,2022-01-01,Software & Services,0.266,0.266
 GPN.N,2022-04-01,Software & Services,1.296,1.296
 GPN.N,2022-07-01,Software & Services,0.681,0.681
 GPN.N,2022-10-01,Software & Services,0.029,0.029
-CTAS.OQ,2012-10-01,Commercial  & Professional Services,0.986,0.986
 CTAS.OQ,2013-01-01,Commercial  & Professional Services,-2.501,2.501
 CTAS.OQ,2013-07-01,Commercial  & Professional Services,-1.329,1.329
 CTAS.OQ,2013-07-01,Commercial  & Professional Services,-0.132,0.132
@@ -9239,7 +9221,6 @@ KO.N,2022-01-01,"Food, Beverage & Tobacco",9.404,9.404
 KO.N,2022-04-01,"Food, Beverage & Tobacco",10.385,10.385
 KO.N,2022-07-01,"Food, Beverage & Tobacco",4.703,4.703
 KO.N,2022-10-01,"Food, Beverage & Tobacco",8.339,8.339
-ULTA.OQ,2012-10-01,Retailing,5.925,5.925
 ULTA.OQ,2013-01-01,Retailing,2.136,2.136
 ULTA.OQ,2013-04-01,Retailing,4.969,4.969
 ULTA.OQ,2013-07-01,Retailing,5.093,5.093
@@ -9664,7 +9645,6 @@ TROW.OQ,2022-01-01,Diversified Financials,1.058,1.058
 TROW.OQ,2022-04-01,Diversified Financials,-4.734,4.734
 TROW.OQ,2022-07-01,Diversified Financials,-16.976,16.976
 TROW.OQ,2022-10-01,Diversified Financials,2.666,2.666
-FDX.N,2012-10-01,Transportation,-1.418,1.418
 FDX.N,2013-01-01,Transportation,-11.063,11.063
 FDX.N,2013-04-01,Transportation,8.687,8.687
 FDX.N,2013-07-01,Transportation,1.726,1.726
@@ -9744,7 +9724,6 @@ MTB.N,2022-01-01,Banks,15.995,15.995
 MTB.N,2022-04-01,Banks,19.417,19.417
 MTB.N,2022-07-01,Banks,-55.825,55.825
 MTB.N,2022-10-01,Banks,-12.581,12.581
-FSLR.OQ,2012-10-01,Semiconductors & Semiconductor Equipment,21.785,21.785
 FSLR.OQ,2013-01-01,Semiconductors & Semiconductor Equipment,16.622,16.622
 FSLR.OQ,2013-04-01,Semiconductors & Semiconductor Equipment,-7.727,7.727
 FSLR.OQ,2013-07-01,Semiconductors & Semiconductor Equipment,-25.402,25.402
@@ -10291,7 +10270,6 @@ DHR.N,2022-01-01,"Pharmaceuticals, Biotechnology & Life Sciences",5.886,5.886
 DHR.N,2022-04-01,"Pharmaceuticals, Biotechnology & Life Sciences",3.669,3.669
 DHR.N,2022-07-01,"Pharmaceuticals, Biotechnology & Life Sciences",17.472,17.472
 DHR.N,2022-10-01,"Pharmaceuticals, Biotechnology & Life Sciences",13.249,13.249
-AVGO.OQ,2012-10-01,Semiconductors & Semiconductor Equipment,5.446,5.446
 AVGO.OQ,2013-01-01,Semiconductors & Semiconductor Equipment,6.033,6.033
 AVGO.OQ,2013-04-01,Semiconductors & Semiconductor Equipment,5.882,5.882
 AVGO.OQ,2013-07-01,Semiconductors & Semiconductor Equipment,5.869,5.869
@@ -11273,7 +11251,6 @@ CF.N,2022-01-01,Materials,-7.798,7.798
 CF.N,2022-04-01,Materials,-3.279,3.279
 CF.N,2022-07-01,Materials,2.679,2.679
 CF.N,2022-10-01,Materials,-31.882,31.882
-DLTR.OQ,2012-10-01,Retailing,4.171,4.171
 DLTR.OQ,2013-01-01,Retailing,2.235,2.235
 DLTR.OQ,2013-04-01,Retailing,3.116,3.116
 DLTR.OQ,2013-07-01,Retailing,-2.209,2.209
@@ -12080,7 +12057,6 @@ DE.N,2022-01-01,Capital Goods,28.934,28.934
 DE.N,2022-04-01,Capital Goods,1.543,1.543
 DE.N,2022-07-01,Capital Goods,-7.883,7.883
 DE.N,2022-10-01,Capital Goods,4.667,4.667
-BFb.N,2012-10-01,"Food, Beverage & Tobacco",2.128,2.128
 BFb.N,2013-01-01,"Food, Beverage & Tobacco",3.989,3.989
 BFb.N,2013-04-01,"Food, Beverage & Tobacco",-3.053,3.053
 BFb.N,2013-07-01,"Food, Beverage & Tobacco",-6.897,6.897
@@ -13234,7 +13210,6 @@ MRK.N,2022-01-01,"Pharmaceuticals, Biotechnology & Life Sciences",17.946,17.946
 MRK.N,2022-04-01,"Pharmaceuticals, Biotechnology & Life Sciences",16.756,16.756
 MRK.N,2022-07-01,"Pharmaceuticals, Biotechnology & Life Sciences",9.766,9.766
 MRK.N,2022-10-01,"Pharmaceuticals, Biotechnology & Life Sciences",8.441,8.441
-ROST.OQ,2012-10-01,Retailing,0.0,0.0
 ROST.OQ,2013-01-01,Retailing,0.075,0.075
 ROST.OQ,2013-04-01,Retailing,0.251,0.251
 ROST.OQ,2013-07-01,Retailing,5.164,5.164
@@ -13780,7 +13755,6 @@ AMP.N,2022-01-01,Diversified Financials,7.824,7.824
 AMP.N,2022-04-01,Diversified Financials,1.997,1.997
 AMP.N,2022-07-01,Diversified Financials,4.529,4.529
 AMP.N,2022-10-01,Diversified Financials,9.988,9.988
-ORCL.N,2012-10-01,Software & Services,4.973,4.973
 ORCL.N,2013-01-01,Software & Services,-2.092,2.092
 ORCL.N,2013-04-01,Software & Services,-0.406,0.406
 ORCL.N,2013-07-01,Software & Services,5.186,5.186
@@ -14132,7 +14106,6 @@ MAA.N,2022-01-01,Real Estate,112.859,112.859
 MAA.N,2022-04-01,Real Estate,16.137,16.137
 MAA.N,2022-07-01,Real Estate,94.652,94.652
 MAA.N,2022-10-01,Real Estate,-5.063,5.063
-DRI.N,2012-10-01,Consumer Services,-1.489,1.489
 DRI.N,2013-01-01,Consumer Services,0.947,0.947
 DRI.N,2013-04-01,Consumer Services,-2.399,2.399
 DRI.N,2013-07-01,Consumer Services,-24.0,24.0
@@ -14691,7 +14664,6 @@ TEL.N,2022-01-01,Technology Hardware & Equipment,9.076,9.076
 TEL.N,2022-04-01,Technology Hardware & Equipment,6.502,6.502
 TEL.N,2022-07-01,Technology Hardware & Equipment,6.497,6.497
 TEL.N,2022-10-01,Technology Hardware & Equipment,0.804,0.804
-AZO.N,2012-10-01,Retailing,0.379,0.379
 AZO.N,2013-01-01,Retailing,0.515,0.515
 AZO.N,2013-04-01,Retailing,0.804,0.804
 AZO.N,2013-07-01,Retailing,0.735,0.735
@@ -15134,7 +15106,6 @@ LW.N,2022-01-01,"Food, Beverage & Tobacco",54.866,54.866
 LW.N,2022-04-01,"Food, Beverage & Tobacco",66.45,66.45
 LW.N,2022-07-01,"Food, Beverage & Tobacco",27.87,27.87
 LW.N,2022-10-01,"Food, Beverage & Tobacco",51.733,51.733
-HPQ.N,2012-10-01,Technology Hardware & Equipment,1.94,1.94
 HPQ.N,2013-01-01,Technology Hardware & Equipment,15.661,15.661
 HPQ.N,2013-04-01,Technology Hardware & Equipment,7.591,7.591
 HPQ.N,2013-07-01,Technology Hardware & Equipment,-0.43,0.43
@@ -15524,7 +15495,6 @@ SNA.N,2022-01-01,Capital Goods,11.091,11.091
 SNA.N,2022-04-01,Capital Goods,9.181,9.181
 SNA.N,2022-07-01,Capital Goods,8.12,8.12
 SNA.N,2022-10-01,Capital Goods,7.242,7.242
-COO.N,2012-10-01,Health Care Equipment & Services,-4.977,4.977
 COO.N,2013-01-01,Health Care Equipment & Services,3.535,3.535
 COO.N,2013-04-01,Health Care Equipment & Services,7.991,7.991
 COO.N,2013-07-01,Health Care Equipment & Services,1.484,1.484
@@ -15604,7 +15574,6 @@ PM.N,2022-01-01,"Food, Beverage & Tobacco",1.722,1.722
 PM.N,2022-04-01,"Food, Beverage & Tobacco",4.59,4.59
 PM.N,2022-07-01,"Food, Beverage & Tobacco",17.46,17.46
 PM.N,2022-10-01,"Food, Beverage & Tobacco",12.569,12.569
-CCL.N,2012-10-01,Consumer Services,13.746,13.746
 CCL.N,2013-01-01,Consumer Services,239.415,239.415
 CCL.N,2013-04-01,Consumer Services,39.991,39.991
 CCL.N,2013-07-01,Consumer Services,5.958,5.958
@@ -15832,7 +15801,6 @@ CMG.N,2022-01-01,Consumer Services,6.042,6.042
 CMG.N,2022-04-01,Consumer Services,1.097,1.097
 CMG.N,2022-07-01,Consumer Services,2.859,2.859
 CMG.N,2022-10-01,Consumer Services,3.303,3.303
-LNT.OQ,2012-10-01,Utilities,4.726,4.726
 LNT.OQ,2013-01-01,Utilities,12.393,12.393
 LNT.OQ,2013-04-01,Utilities,17.407,17.407
 LNT.OQ,2013-07-01,Utilities,6.739,6.739
@@ -16410,6 +16378,7 @@ TMUS.OQ,2013-07-01,Telecommunication Services,-27.536,27.536
 TMUS.OQ,2013-10-01,Telecommunication Services,-184.152,184.152
 TMUS.OQ,2014-01-01,Telecommunication Services,130.71,130.71
 TMUS.OQ,2014-04-01,Telecommunication Services,-81.69,81.69
+TMUS.OQ,2014-07-01,Telecommunication Services,503.622,503.622
 TMUS.OQ,2015-01-01,Telecommunication Services,133.333,133.333
 TMUS.OQ,2015-04-01,Telecommunication Services,5.452,5.452
 TMUS.OQ,2015-07-01,Telecommunication Services,127.867,127.867
@@ -17510,7 +17479,6 @@ BSX.N,2022-01-01,Health Care Equipment & Services,2.496,2.496
 BSX.N,2022-04-01,Health Care Equipment & Services,1.146,1.146
 BSX.N,2022-07-01,Health Care Equipment & Services,3.678,3.678
 BSX.N,2022-10-01,Health Care Equipment & Services,-2.523,2.523
-LOW.N,2012-10-01,Retailing,13.662,13.662
 LOW.N,2013-01-01,Retailing,12.263,12.263
 LOW.N,2013-04-01,Retailing,-3.191,3.191
 LOW.N,2013-07-01,Retailing,11.446,11.446
@@ -17748,7 +17716,6 @@ SYK.N,2022-01-01,Health Care Equipment & Services,-0.491,0.491
 SYK.N,2022-04-01,Health Care Equipment & Services,1.258,1.258
 SYK.N,2022-07-01,Health Care Equipment & Services,-1.182,1.182
 SYK.N,2022-10-01,Health Care Equipment & Services,-4.933,4.933
-FDS.N,2012-10-01,Diversified Financials,-0.113,0.113
 FDS.N,2013-01-01,Diversified Financials,1.786,1.786
 FDS.N,2013-04-01,Diversified Financials,-0.096,0.096
 FDS.N,2013-07-01,Diversified Financials,-0.415,0.415
@@ -18295,7 +18262,6 @@ AMD.OQ,2022-01-01,Semiconductors & Semiconductor Equipment,21.361,21.361
 AMD.OQ,2022-04-01,Semiconductors & Semiconductor Equipment,24.176,24.176
 AMD.OQ,2022-07-01,Semiconductors & Semiconductor Equipment,1.616,1.616
 AMD.OQ,2022-10-01,Semiconductors & Semiconductor Equipment,-2.146,2.146
-PAYX.OQ,2012-10-01,Software & Services,1.175,1.175
 PAYX.OQ,2013-01-01,Software & Services,2.325,2.325
 PAYX.OQ,2013-04-01,Software & Services,1.393,1.393
 PAYX.OQ,2013-07-01,Software & Services,2.029,2.029
@@ -18415,7 +18381,6 @@ MCO.N,2022-01-01,Diversified Financials,-2.455,2.455
 MCO.N,2022-04-01,Diversified Financials,-0.431,0.431
 MCO.N,2022-07-01,Diversified Financials,-3.568,3.568
 MCO.N,2022-10-01,Diversified Financials,-10.022,10.022
-COST.OQ,2012-10-01,Food & Staples Retailing,1.977,1.977
 COST.OQ,2013-01-01,Food & Staples Retailing,3.901,3.901
 COST.OQ,2013-04-01,Food & Staples Retailing,1.418,1.418
 COST.OQ,2013-10-01,Food & Staples Retailing,-4.251,4.251
@@ -18569,6 +18534,7 @@ AIG.N,2017-10-01,Insurance,-55.055,55.055
 AIG.N,2018-01-01,Insurance,-23.752,23.752
 AIG.N,2018-04-01,Insurance,-18.218,18.218
 AIG.N,2018-07-01,Insurance,-13.303,13.303
+AIG.N,2019-01-01,Insurance,-248.954,248.954
 AIG.N,2019-04-01,Insurance,49.435,49.435
 AIG.N,2019-07-01,Insurance,24.078,24.078
 AIG.N,2019-10-01,Insurance,-43.822,43.822
